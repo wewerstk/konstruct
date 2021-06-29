@@ -285,7 +285,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  max-height: 500px;
+  height: 500px;
   text-align: center;
 }
 
